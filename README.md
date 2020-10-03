@@ -25,3 +25,6 @@ Denver County
 
 ### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 Diana DeGette won the election with 272,892 votes. This accounts for 73.8% of the votes across the three counties in the district.
+
+## Election Audit Summary
+
