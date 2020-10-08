@@ -28,5 +28,4 @@ Diana DeGette won the election with 272,892 votes. This accounts for 73.8% of th
 
 ## Election Audit Summary
   As long as the data is prepared in a valid EXCEL format, this script can be easily modified to work on any election. The format is such that only minor modifications to the output script- changing counties to states, for example- are required to be done by the enduser. The script can also be modified to find lowest voter output as opposed to the highest by finding the lowest percentage instead of the highest. This could be useful information for folks looking to target their efforts to increase voter turnout. One could also modify the script to find out voter turn out in specific counties. This data could be used to figure out which candidate was most popular where, and gain insight on what sort of campaining worked in one county, and didn't in another.
-  
-- 2. can also modify script to find voter turn out in specific areas. ex- find out what candiate was most popular where.
+ 
